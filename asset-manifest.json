@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/promAgency/static/css/main.2e5460b5.chunk.css",
+    "main.js": "/promAgency/static/js/main.cde472e6.chunk.js",
+    "main.js.map": "/promAgency/static/js/main.cde472e6.chunk.js.map",
+    "runtime-main.js": "/promAgency/static/js/runtime-main.2edf4194.js",
+    "runtime-main.js.map": "/promAgency/static/js/runtime-main.2edf4194.js.map",
+    "static/js/2.0fe8320b.chunk.js": "/promAgency/static/js/2.0fe8320b.chunk.js",
+    "static/js/2.0fe8320b.chunk.js.map": "/promAgency/static/js/2.0fe8320b.chunk.js.map",
+    "index.html": "/promAgency/index.html",
+    "static/css/main.2e5460b5.chunk.css.map": "/promAgency/static/css/main.2e5460b5.chunk.css.map",
+    "static/js/2.0fe8320b.chunk.js.LICENSE.txt": "/promAgency/static/js/2.0fe8320b.chunk.js.LICENSE.txt",
+    "static/media/adidas.82660410.png": "/promAgency/static/media/adidas.82660410.png",
+    "static/media/bershka.0546ddcd.png": "/promAgency/static/media/bershka.0546ddcd.png",
+    "static/media/bmw.e0c5156b.png": "/promAgency/static/media/bmw.e0c5156b.png",
+    "static/media/kfc.e61e80df.png": "/promAgency/static/media/kfc.e61e80df.png",
+    "static/media/onet.626110ae.png": "/promAgency/static/media/onet.626110ae.png",
+    "static/media/start.c9a7ada1.svg": "/promAgency/static/media/start.c9a7ada1.svg",
+    "static/media/stradivarius.d9d21999.png": "/promAgency/static/media/stradivarius.d9d21999.png",
+    "static/media/team.d0423dba.svg": "/promAgency/static/media/team.d0423dba.svg",
+    "static/media/waveBottom.72db771e.svg": "/promAgency/static/media/waveBottom.72db771e.svg",
+    "static/media/waveTop.76fee925.svg": "/promAgency/static/media/waveTop.76fee925.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2edf4194.js",
+    "static/js/2.0fe8320b.chunk.js",
+    "static/css/main.2e5460b5.chunk.css",
+    "static/js/main.cde472e6.chunk.js"
+  ]
+}
