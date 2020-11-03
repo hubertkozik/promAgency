@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/promAgency/static/css/main.2e5460b5.chunk.css",
+    "main.css": "/promAgency/static/css/main.da56a3f8.chunk.css",
     "main.js": "/promAgency/static/js/main.6403cffa.chunk.js",
     "main.js.map": "/promAgency/static/js/main.6403cffa.chunk.js.map",
     "runtime-main.js": "/promAgency/static/js/runtime-main.2edf4194.js",
@@ -8,7 +8,7 @@
     "static/js/2.368e3d84.chunk.js": "/promAgency/static/js/2.368e3d84.chunk.js",
     "static/js/2.368e3d84.chunk.js.map": "/promAgency/static/js/2.368e3d84.chunk.js.map",
     "index.html": "/promAgency/index.html",
-    "static/css/main.2e5460b5.chunk.css.map": "/promAgency/static/css/main.2e5460b5.chunk.css.map",
+    "static/css/main.da56a3f8.chunk.css.map": "/promAgency/static/css/main.da56a3f8.chunk.css.map",
     "static/js/2.368e3d84.chunk.js.LICENSE.txt": "/promAgency/static/js/2.368e3d84.chunk.js.LICENSE.txt",
     "static/media/adidas.82660410.png": "/promAgency/static/media/adidas.82660410.png",
     "static/media/bershka.0546ddcd.png": "/promAgency/static/media/bershka.0546ddcd.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.2edf4194.js",
     "static/js/2.368e3d84.chunk.js",
-    "static/css/main.2e5460b5.chunk.css",
+    "static/css/main.da56a3f8.chunk.css",
     "static/js/main.6403cffa.chunk.js"
   ]
 }
