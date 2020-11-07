@@ -1,6 +1,6 @@
 # promAgency Landing Page
 
-This repo contains a simple landing page written in React.js and SASS. Website is mobile friendly. This page is hosted on github pages, so you can see it anytime and from anywhere.
+This repo contains a landing page written in React.js and SASS. Website is built with responsive web design approach. This page is hosted on github pages, so you can see it anytime and from anywhere.
 
 ## Link to see this page
 
